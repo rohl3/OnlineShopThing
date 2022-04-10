@@ -1,0 +1,122 @@
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 123.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{productName= penna', cost= 12.0, quantity= 2}
+
+Articolo{uniqueCode= null', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= null', productName= penna', cost= 12.0, quantity= 2}
+
+Articolo{uniqueCode= null', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= null', productName= penna', cost= 122.0, quantity= 1}
+
+Articolo{uniqueCode= zAiGthQNeN', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= 2Cr9ccqQJX', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= lKukQ6646K', productName= asd', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= LlcpggYbbA', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= omIbLDA76X', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= mJNOUVBjls', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= UzBJ3f18vK', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= Hx8hh3gJfh', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= rleJpJjo3E', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= WtWEQA9Nfh', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= yqf8HcbJNg', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= NSuok7WG5I', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= rKMhCJwfem', productName= panna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= fRSNCGQWFS', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= OuhLXcUHZv', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= BCRcMplyps', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= EQjPFaKVhP', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= vjqEdNJqnD', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= OFgqhVCKyk', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= ZOjFSVsrez', productName= penno', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= voQ7EB9BBo', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= ydA2ioLkm3', productName= macchina', cost= 114233.0, quantity= 1}
+
+Articolo{uniqueCode= YxEAV6AsSw', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= aQzkNd4Xgn', productName= cibo', cost= 212.0, quantity= 1}
+
+Articolo{uniqueCode= teeDdDfdCZ', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= a393xmvMJ2', productName= phone', cost= 1211.0, quantity= 1}
+
+Articolo{uniqueCode= iuksOs1ckA', productName= penna', cost= 5.0, quantity= 1}
+
+Articolo{uniqueCode= Abn5DOv39G', productName= matita', cost= 2.0, quantity= 1}
+
+Articolo{uniqueCode= B4DbDDydIt', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= Rt6sJftNfF', productName= penna', cost= 212.0, quantity= 1}
+
+Articolo{uniqueCode= L6HBNhqTE6', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= ALbE1HrUWk', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= U3vddPULmr', productName= penna ', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= TQqLNl31Ck', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= jfZgIKouRb', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= a6iwOipDNP', productName= anmma', cost= 12.0, quantity= 11}
+
+Articolo{uniqueCode= GAqBv7D7XV', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= 78H8GBjIVF', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= 4SPVrt35oQ', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= PVfoaXObDA', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= 3cdNLjvbys', productName= gomma', cost= 20.0, quantity= 1}
+
+Articolo{uniqueCode= EgGnbUtZ5c', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= 7RxNaXIk7w', productName= penna', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= yhXzUbISFm', productName= cam', cost= 12.0, quantity= 1}
+
+Articolo{uniqueCode= R5lLZ9iGwr', productName= penna', cost= 22.0, quantity= 1}
+
